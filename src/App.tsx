@@ -125,7 +125,7 @@ const properties = [
 ];
 
 const tenants = [
-  { id: 1, name: "Sarah Mitchell", email: "sarah.m@email.com", phone: "+1 415-555-0101", property: "Sunset Towers", unit: "Unit 4A", rent: 3200, status: "Paid", leaseEnd: "2025-06-30", avatar: "https://i.pravatar.cc/40?img=1" },
+  { id: 1, name: "Mr.Akram Hossain", email: "akram.m@email.com", phone: "8801624472117", property: "Sunset Towers", unit: "Unit 4A", rent: 3200, status: "Paid", leaseEnd: "2025-06-30", avatar: "https://i.pravatar.cc/40?img=1" },
   { id: 2, name: "James Rodriguez", email: "j.rodriguez@email.com", phone: "+1 619-555-0202", property: "Harbor View Condos", unit: "Unit 8C", rent: 5500, status: "Paid", leaseEnd: "2025-09-30", avatar: "https://i.pravatar.cc/40?img=3" },
   { id: 3, name: "Emily Chen", email: "emily.c@email.com", phone: "+1 213-555-0303", property: "Metro Plaza", unit: "Unit 12B", rent: 4800, status: "Pending", leaseEnd: "2025-12-31", avatar: "https://i.pravatar.cc/40?img=5" },
   { id: 4, name: "Michael Thompson", email: "m.thompson@email.com", phone: "+1 512-555-0404", property: "Green Valley Homes", unit: "Unit 3", rent: 2800, status: "Paid", leaseEnd: "2026-01-31", avatar: "https://i.pravatar.cc/40?img=8" },
