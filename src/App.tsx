@@ -1478,9 +1478,9 @@ function ReportsPage() {
 // ── 10. Settings ───────────────────────────────────────────────────────────
 
 function SettingsPage() {
-  const [name, setName] = useState("Alex Johnson");
-  const [email, setEmail] = useState("alex@propmanager.com");
-  const [phone, setPhone] = useState("+1 415-555-0100");
+  const [name, setName] = useState("Wahiduzzaman Epon");
+  const [email, setEmail] = useState("epon@propmanager.com");
+  const [phone, setPhone] = useState("01624472117");
   const [notifs, setNotifs] = useState({
     email: true, sms: false, push: true,
     maintenance: true, payments: true, reports: false,
